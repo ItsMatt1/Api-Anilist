@@ -1,1 +1,1 @@
-Testing anilist api
+Trying something with anilist api
